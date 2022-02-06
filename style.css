@@ -32,6 +32,16 @@
     background-color: lavender;
     cursor: pointer;
 }
+.info_box
+{
+   margin-left: auto;
+   margin-right: auto;
+   width: 350px;   
+}
+.info_box>.info_title
+{
+    he
+}
 
 
 
