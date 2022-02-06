@@ -6,7 +6,7 @@
 .container
 {
     text-align: center;
-    height: 120vh;
+    height: 150vh;
     width: 80%;
     border-top:2px solid gold;
     background:url(images/1188343.jpg);
@@ -40,7 +40,15 @@
 }
 .info_box>.info_title
 {
-    he
+    height: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.info_box>.info_list
+{
+    height: 25px;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 
