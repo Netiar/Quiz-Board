@@ -55,6 +55,19 @@
     font-size: 18px;
     padding: 5px;    
     background-color: lightskyblue;
+    margin-left: auto;
+    align-items: center;
+}
+#quiz
+{
+    font-weight: normal;
+    text-align: left;
+    margin-left:-375px ;
+    
+}
+/*p
+{
+
 }
 
 
