@@ -5,12 +5,16 @@ function check(){
     var q3=document.quiz.question3.value;
     var q4=document.quiz.question4.value;
     var q5=document.quiz.question5.value;
+    var result= document.getElementById("result")
+    var quiz=document.getElementById("quiz")
     if (q1=="Coby") {a++}
     if (q2=="foosha village") {a++}
     if (q3=="alvinda") {a++}
     if (q4=="Zoro") {a++}    
     if (q5=="pirate hunter") {a++}
-    document.write(a);
+
+    quiz.style.display="none"
+    result.textContent="$(c)";
 }    
 
 
