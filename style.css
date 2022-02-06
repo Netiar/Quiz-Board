@@ -50,6 +50,12 @@
     font-size: 20px;
     font-weight: 600;
 }
+#button
+{
+    font-size: 18px;
+    padding: 5px;    
+    background-color: lightskyblue;
+}
 
 
 
