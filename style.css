@@ -1,8 +1,38 @@
 *
 {
-    max-width: 0;
+   margin: 0;
     padding: 0;
 }
+.container
+{
+    text-align: center;
+    height: 120vh;
+    width: 80%;
+    border-top:2px solid gold;
+    background:url(images/1188343.jpg);
+    background-size:cover ;
+    margin-left: auto;
+    margin-right: auto; 
+    color:#fff;
+    font-style: monserrat, serrif, ariel;       
+}
+.start_btn
+{
+
+} 
+.start_btn button
+{
+    font-size: 25px;
+    font-weight: 500;
+    color: #007bff;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: lavender;
+    cursor: pointer;
+}
+
 
 
 
