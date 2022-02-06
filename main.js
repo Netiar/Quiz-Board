@@ -1,12 +1,16 @@
 function check(){
-    var a=0;
+    var a=0;    
     var q1=document.quiz.question1.value;
-    if (q1=="Coby") (a++)
-    document.write(a);
-}
-function check(){
-    var c=0;
     var q2=document.quiz.question2.value;
-    if (q2=="foosha village") (c++)
-    document.write(c);
-}   
+    var q3=document.quiz.question3.value;
+    var q4=document.quiz.question4.value;
+    var q5=document.quiz.question5.value;
+    if (q1=="Coby") {a++}
+    if (q2=="foosha village") {a++}
+    if (q3=="alvinda") {a++}
+    if (q4=="Zoro") {a++}    
+    if (q5=="pirate hunter") {a++}
+    document.write(a);
+}    
+
+
