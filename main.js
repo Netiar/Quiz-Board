@@ -14,6 +14,13 @@ function check(){
     if (q5=="pirate hunter") {a++}
 
     quiz.style.display="none";
+
+
+// Caclulate score//
+function scoreTest(answer, questions) {
+    var score = (answer/questions) * 100;
+    return score;
+    }
     
     /*if(c<=3) {
      result.textContent='your result is $(c).watch one piece.'
