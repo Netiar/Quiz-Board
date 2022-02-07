@@ -6,7 +6,7 @@
 .container
 {
     text-align: center;
-    height: 210vh;
+    height: 240vh;
     width: 80%;
     border-top:2px solid gold;
     background:url(images/1188343.jpg);
@@ -18,7 +18,7 @@
 }
 .start_btn
 {
-    background-color: lavender;
+   
 } 
 .start_btn button
 {
